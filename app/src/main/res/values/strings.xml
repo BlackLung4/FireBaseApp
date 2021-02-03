@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="regPageTitle">REGISTRATION</string>
+    <string name="loginPageTitle">LOGIN</string>
+    <string name="passwordHint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="regButtonText">Registration</string>
+    <string name="loginButtonText">Login</string>
+    <string name="goBack">Back</string>
+</resources>
